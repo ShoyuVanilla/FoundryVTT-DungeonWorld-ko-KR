@@ -4,14 +4,17 @@ import sys
 import os
 
 def replace_tags_in_string(str, tags):
+	swap0 = str
+	swap1 = str
 	if str and str.strip():
 		for entry in tags:
-			src_tag = '\\"' + entry['id'] + '\\"'
-			src_tag_lower = '\\"' + entry['id'].lower() + '\\"'
-			trans_tag = '\\"' + entry['name'] + '\\"'
-			str.replace(src_tag, trans_tag)
-			str.replace(src_tag_lower, trans_tag)
-	return str
+			src_tag = '\"' + entry['id'] + '\"'
+			src_tag_lower = '\"' + entry['id'].lower() + '\"'
+			trans_tag = '\"' + entry['name'] + '\"'
+			swap0 = swap1.replace(src_tag, trans_tag)
+			swap1 = swap0.replace(src_tag_lower, trans_tag)
+		swap0 = swap1.replace('coins', '닢')
+	return swap0
 
 def translate_tags(path, tags):
 	with open(path) as f:
