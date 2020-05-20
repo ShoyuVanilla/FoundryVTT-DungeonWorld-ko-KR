@@ -1,0 +1,92 @@
+{
+	"label": "기본 액션",
+	"mapping": {
+        "description": "data.description"
+    },
+	"entries": [
+		{
+			"id": "Aid or Interfere",
+			"name": "Aid or Interfere"
+		},
+		{
+			"id": "Bolster",
+			"name": "Bolster"
+		},
+		{
+			"id": "Carouse",
+			"name": "Carouse"
+		},
+		{
+			"id": "Defend",
+			"name": "Defend"
+		},
+		{
+			"id": "Defy Danger",
+			"name": "Defy Danger"
+		},
+		{
+			"id": "Discern Realities",
+			"name": "Discern Realities"
+		},
+		{
+			"id": "Encumberance",
+			"name": "Encumberance"
+		},
+		{
+			"id": "End of Session",
+			"name": "End of Session"
+		},
+		{
+			"id": "Hack & Slash",
+			"name": "Hack & Slash"
+		},
+		{
+			"id": "Last Breath",
+			"name": "Last Breath"
+		},
+		{
+			"id": "Level Up",
+			"name": "Level Up"
+		},
+		{
+			"id": "Make Camp",
+			"name": "Make Camp"
+		},
+		{
+			"id": "Outstanding Warrants",
+			"name": "Outstanding Warrants"
+		},
+		{
+			"id": "Parley",
+			"name": "Parley"
+		},
+		{
+			"id": "Recover",
+			"name": "Recover"
+		},
+		{
+			"id": "Recruit",
+			"name": "Recruit"
+		},
+		{
+			"id": "Spout Lore",
+			"name": "Spout Lore"
+		},
+		{
+			"id": "Supply",
+			"name": "Supply"
+		},
+		{
+			"id": "Take Watch",
+			"name": "Take Watch"
+		},
+		{
+			"id": "Undertake A Perilous Journey",
+			"name": "Undertake A Perilous Journey"
+		},
+		{
+			"id": "Volley",
+			"name": "Volley"
+		}
+	]
+}
