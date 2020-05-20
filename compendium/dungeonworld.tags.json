@@ -1,0 +1,225 @@
+{
+	"label": "태그",
+	"entries": [
+		{
+			"id": "+1 armor",
+			"name": "장갑 +1"
+		},
+		{
+			"id": "+1 damage",
+			"name": "피해 +1"
+		},
+		{
+			"id": "+1 forward",
+			"name": "다음 판정에 +1"
+		},
+		{
+			"id": "+1 ongoing",
+			"name": "판정에 계속 +1"
+		},
+		{
+			"id": "-1 forward",
+			"name": "다음 판정에 -1"
+		},
+		{
+			"id": "-1 ongoing",
+			"name": "판정에 계속 -1"
+		},
+		{
+			"id": "1 ammo",
+			"name": "발수 1"
+		},
+		{
+			"id": "1 armor",
+			"name": "장갑 1"
+		},
+		{
+			"id": "1 piercing",
+			"name": "관통 1"
+		},
+		{
+			"id": "2 armor",
+			"name": "장갑 2"
+		},
+		{
+			"id": "3 ammo",
+			"name": "발수 3"
+		},
+		{
+			"id": "3 armor",
+			"name": "장갑 3"
+		},
+		{
+			"id": "3 piercing",
+			"name": "관통 3"
+		},
+		{
+			"id": "4 ammo",
+			"name": "발수 4"
+		},
+		{
+			"id": "Amorphous",
+			"name": "부정형"
+		},
+		{
+			"id": "Applied",
+			"name": "투여"
+		},
+		{
+			"id": "Awkward",
+			"name": "거추장스러움"
+		},
+		{
+			"id": "Cautious",
+			"name": "조심스러움"
+		},
+		{
+			"id": "Close",
+			"name": "한걸음"
+		},
+		{
+			"id": "Clumsy",
+			"name": "불편"
+		},
+		{
+			"id": "Construct",
+			"name": "인공물"
+		},
+		{
+			"id": "Dangerous",
+			"name": "위험"
+		},
+		{
+			"id": "Devious",
+			"name": "음흉"
+		},
+		{
+			"id": "Far",
+			"name": "장거리"
+		},
+		{
+			"id": "Forceful",
+			"name": "괴력"
+		},
+		{
+			"id": "Group",
+			"name": "소집단"
+		},
+		{
+			"id": "Hand",
+			"name": "반걸음"
+		},
+		{
+			"id": "Hoarder",
+			"name": "보물지기"
+		},
+		{
+			"id": "Horde",
+			"name": "대집단"
+		},
+		{
+			"id": "Huge",
+			"name": "거대"
+		},
+		{
+			"id": "Ignores Armor",
+			"name": "장갑 무시"
+		},
+		{
+			"id": "Intelligent",
+			"name": "지능적"
+		},
+		{
+			"id": "Large",
+			"name": "큼"
+		},
+		{
+			"id": "Magical",
+			"name": "마법적"
+		},
+		{
+			"id": "Messy",
+			"name": "파괴적"
+		},
+		{
+			"id": "Near",
+			"name": "중거리"
+		},
+		{
+			"id": "Organized",
+			"name": "조직적"
+		},
+		{
+			"id": "Planar",
+			"name": "이계"
+		},
+		{
+			"id": "Precise",
+			"name": "정밀"
+		},
+		{
+			"id": "Ration",
+			"name": "식량"
+		},
+		{
+			"id": "Reach",
+			"name": "몇걸음"
+		},
+		{
+			"id": "Reload",
+			"name": "재장전"
+		},
+		{
+			"id": "Requires",
+			"name": "필요"
+		},
+		{
+			"id": "Requires Dwarf",
+			"name": "필요 (드워프)"
+		},
+		{
+			"id": "Slow",
+			"name": "느림"
+		},
+		{
+			"id": "Small",
+			"name": "작음"
+		},
+		{
+			"id": "Solitary",
+			"name": "외톨이"
+		},
+		{
+			"id": "Stealthy",
+			"name": "은밀"
+		},
+		{
+			"id": "Stun",
+			"name": "충격"
+		},
+		{
+			"id": "Terrifying",
+			"name": "끔찍함"
+		},
+		{
+			"id": "Thrown",
+			"name": "투척"
+		},
+		{
+			"id": "Tiny",
+			"name": "매우 작음"
+		},
+		{
+			"id": "Touch",
+			"name": "접촉"
+		},
+		{
+			"id": "Two-handed",
+			"name": "양손"
+		},
+		{
+			"id": "Worn",
+			"name": "착용"
+		}
+	]
+}
