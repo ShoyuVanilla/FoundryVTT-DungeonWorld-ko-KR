@@ -9,145 +9,145 @@
       "id": "Axe",
       "name": "도끼",
       "description": "<p>나무를 쪼개거나 무기로 사용할 수 있는 도구입니다.</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     },
     {
       "id": "Battle Axe",
       "name": "전투도끼",
       "description": "<p>전투를 위해 고안된 양손 도끼입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"+1 damage\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"피해 +1\"}]"
     },
     {
       "id": "Bundle of Arrows",
       "name": "화살 다발",
       "description": "<p>평범한 화살 다발입니다.</p>",
-      "tags": "[{\"value\":\"3 ammo\"}]"
+      "tags": "[{\"value\":\"발수 3\"}]"
     },
     {
       "id": "Club",
       "name": "곤봉",
       "description": "<p>나무로 만든 둔기입니다.</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     },
     {
       "id": "Crossbow",
       "name": "쇠뇌",
       "description": "<p>기계식 활입니다.</p>",
-      "tags": "[{\"value\":\"near\"},{\"value\":\"reload\"},{\"value\":\"+1 damage\"}]"
+      "tags": "[{\"value\":\"중거리\"},{\"value\":\"재장전\"},{\"value\":\"피해 +1\"}]"
     },
     {
       "id": "Dagger",
       "name": "단검",
       "description": "<p>작은 철제 칼입니다.</p>",
-      "tags": "[{\"value\":\"hand\"}]"
+      "tags": "[{\"value\":\"반걸음\"}]"
     },
     {
       "id": "Dueling Rapier",
       "name": "결투용 레이피어",
       "description": "<p>균형이 잘 잡힌 가느다란 양날 한손검입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"1 piercing\"},{\"value\":\"precise\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"관통 1\"},{\"value\":\"정밀\"}]"
     },
     {
       "id": "Elven Arrows",
       "name": "엘프 화살",
       "description": "<p>정교한 엘프 화살입니다.</p>",
-      "tags": "[{\"value\":\"4 ammo\"}]"
+      "tags": "[{\"value\":\"발수 4\"}]"
     },
     {
       "id": "Fine Bow",
       "name": "보통 활",
       "description": "<p>잘 만들어진 활입니다.</p>",
-      "tags": "[{\"value\":\"near\"},{\"value\":\"far\"}]"
+      "tags": "[{\"value\":\"중거리\"},{\"value\":\"장거리\"}]"
     },
     {
       "id": "Flail",
       "name": "도리깨",
       "description": "<p>타격용 머리가 사슬로 손잡이에 부착된 무기입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"+1 damage\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"피해 +1\"}]"
     },
     {
       "id": "Halberd",
       "name": "할버드",
       "description": "<p>양손 장대 무기입니다.</p>",
-      "tags": "[{\"value\":\"reach\"},{\"value\":\"+1 damage\"},{\"value\":\"two-handed\"}]"
+      "tags": "[{\"value\":\"몇걸음\"},{\"value\":\"피해 +1\"},{\"value\":\"양손\"}]"
     },
     {
       "id": "Hunter's Bow",
       "name": "사냥용 활",
       "description": "<p>속도와 정확성을 위해 정교하게 조정된 활입니다.</p>",
-      "tags": "[{\"value\":\"near\"},{\"value\":\"far\"}]"
+      "tags": "[{\"value\":\"중거리\"},{\"value\":\"장거리\"}]"
     },
     {
       "id": "Knife",
       "name": "단도",
       "description": "<p>자르는 용도의 날이 달린 도구입니다.</p>",
-      "tags": "[{\"value\":\"hand\"}]"
+      "tags": "[{\"value\":\"반걸음\"}]"
     },
     {
       "id": "Long Sword",
       "name": "장검",
       "description": "<p>긴 칼날이 달린 양손검입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"+1 damage\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"피해 +1\"}]"
     },
     {
       "id": "Mace",
       "name": "철퇴",
       "description": "<p>단단한 막대에 무거운 머리가 달린 타격용 무기입니다</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     },
     {
       "id": "Ragged Bow",
       "name": "낡은 활",
       "description": "<p>심하게 낡은 활입니다.</p>",
-      "tags": "[{\"value\":\"near\"}]"
+      "tags": "[{\"value\":\"중거리\"}]"
     },
     {
       "id": "Rapier",
       "name": "레이피어",
       "description": "<p>끝이 뾰족한 가느다란 양날 한손검입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"precise\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"정밀\"}]"
     },
     {
       "id": "Shillelagh",
       "name": "혹몽둥이",
       "description": "<p>두꺼운 떡갈나무 막대기입니다.</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     },
     {
       "id": "Shiv",
       "name": "비수",
       "description": "<p>날카로운 날이 달린 임시 무기입니다.</p>",
-      "tags": "[{\"value\":\"hand\"}]"
+      "tags": "[{\"value\":\"반걸음\"}]"
     },
     {
       "id": "Short Sword",
       "name": "소검",
       "description": "<p>짧은 한손검입니다.</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     },
     {
       "id": "Spear",
       "name": "창",
       "description": "<p>긴 막대에 뾰족한 금속이 달린 무기입니다.</p>",
-      "tags": "[{\"value\":\"reach\"},{\"value\":\"thrown\"},{\"value\":\"near\"}]"
+      "tags": "[{\"value\":\"몇걸음\"},{\"value\":\"투척\"},{\"value\":\"중거리\"}]"
     },
     {
       "id": "Staff",
       "name": "지팡이",
       "description": "<p>타격용 도구로 사용하기 위해 나무를 깎아 만든 지팡이입니다.</p>",
-      "tags": "[{\"value\":\"close\"},{\"value\":\"two-handed\"}]"
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"양손\"}]"
     },
     {
       "id": "Throwing Dagger",
       "name": "투척용 단검",
       "description": "<p>균형이 잘 잡혀 정확성이 높은 가벼운 단검입니다.</p>",
-      "tags": "[{\"value\":\"thrown\"},{\"value\":\"near\"}]"
+      "tags": "[{\"value\":\"투척\"},{\"value\":\"중거리\"}]"
     },
     {
       "id": "War hammer",
       "name": "전투망치",
       "description": "<p>두개골을 부수기에 적당한 커다란 금속 망치입니다.</p>",
-      "tags": "[{\"value\":\"close\"}]"
+      "tags": "[{\"value\":\"한걸음\"}]"
     }
   ]
 }
