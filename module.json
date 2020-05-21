@@ -2,7 +2,7 @@
 	"name": "DungeonWorld-ko",
 	"title": "ko-KR - Dungeon World System",
 	"description": "<p>던전월드 시스템의 한국어화 모듈입니다.</p>",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"minimumCoreVersion" : "0.5.7",
 	"compatibleCoreVersion": "0.5.7",
 	"author": "Shoyu Vanilla",
@@ -18,6 +18,6 @@
 	}],
 
 	"url": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR",
-		"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/master/module.json",
-		"download": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/archive/master.zip"
+	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/master/module.json",
+	"download": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/archive/master.zip"
 }
