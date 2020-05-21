@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap');
 
 .vtt .window-app textarea,
 .vtt .window-app button,
 .vtt .window-app input,
+.vtt .window-app select,
+.vtt .window-app textarea,
 .vtt #chat-log .message,
 .dungeonworld {
   font-family: "Roboto", "Noto Sans KR", serif;
@@ -18,5 +20,5 @@
 .dungeonworld.sheet h4,
 .dungeonworld.sheet .cell__title,
 .dungeonworld.sheet .item {
-  font-family: "Martel", "Nanum Myeongjo", serif;
+  font-family: "Martel", "Noto Serif KR", serif;
 }
