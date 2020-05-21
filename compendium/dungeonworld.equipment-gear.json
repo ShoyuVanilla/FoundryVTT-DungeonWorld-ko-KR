@@ -20,7 +20,7 @@
     {
       "id": "Bag of Books",
       "name": "책 자루",
-      "description": "<p>지식 더듬기를 할 때, 그 주제에 딱 맞는 책이 자루 안에 있으면 1회분을 소비하고 책을 읽어서 판정에 +1을 받을 수 있습니다.</p>",
+      "description": "<p>@Compendium[dungeonworld.basic-moves.VGOMbAoUtpR4gGcx]{지식 더듬기}를 할 때, 그 주제에 딱 맞는 책이 자루 안에 있으면 1회분을 소비하고 책을 읽어서 판정에 +1을 받을 수 있습니다.</p>",
       "tags": ""
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "Halfling Pipeleaf",
       "name": "하플링 담뱃잎",
-      "description": "<p>하플링 담뱃잎 2회분을 누군가와 함께 나누어 피우면, 상대와의 다음 번 협상 판정에 +1을 받습니다.</p>",
+      "description": "<p>@Compendium[dungeonworld.basic-moves.HcKY3KnfpKi78HtK]{협상}하플링 담뱃잎 2회분을 누군가와 함께 나누어 피우면, 상대와의 다음 번 협상 판정에 +1을 받습니다.</p>",
       "tags": ""
     },
     {
@@ -62,7 +62,7 @@
     {
       "id": "Keg of Dwarven Stout",
       "name": "드워프 맥주통",
-      "description": "<p>드워프 맥주통을 따고 모두에게 마음껏 마시라고 하면 축하연 판정에 +1을 받습니다. 혼자서 한 통을 다 마시면 매우, 매우 취합니다.</p>",
+      "description": "<p>드워프 맥주통을 따고 모두에게 마음껏 마시라고 하면 @Compendium[dungeonworld.basic-moves.CPEw8vfEXxyt2WaU]{축하연} 판정에 +1을 받습니다. 혼자서 한 통을 다 마시면 매우, 매우 취합니다.</p>",
       "tags": ""
     },
     {

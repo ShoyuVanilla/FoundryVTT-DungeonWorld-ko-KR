@@ -8,7 +8,7 @@
     {
       "id": "Bloodweed",
       "name": "박혈초",
-      "description": "<p>독이 풀릴 때까지, 중독된 자가 피해를 줄 때는 d4를 하나 더 굴려서 그만큼을 자기가 가하는 피해에서 뺍니다.</p>\n<p>피해에서 차감: <a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d4\"> 1d4</a></p>",
+      "description": "<p>독이 풀릴 때까지, 중독된 자가 피해를 줄 때는 <a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"> 1d4</a>를 하나 더 굴려서 그만큼을 자기가 가하는 피해에서 뺍니다.</p>",
       "tags": "[{\"value\":\"위험\"},{\"value\":\"접촉\"}]"
     },
     {
