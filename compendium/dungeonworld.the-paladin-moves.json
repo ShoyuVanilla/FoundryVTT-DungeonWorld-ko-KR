@@ -68,7 +68,7 @@
     {
       "id": "Holy Smite",
       "name": "거룩한 분노",
-      "description": "<p>대체: @Compendium[dungeonworld.the-paladin-moves.aGhwKxmNhnrZCusC]{의로운 분노}</p>\n<p>신성한 임무를 수행 중인 동안, 피해를 줄 때 +[[/roll 1d8]]을 더 가합니다.</p>",
+      "description": "<p>대체: @Compendium[dungeonworld.the-paladin-moves.aGhwKxmNhnrZCusC]{의로운 분노}</p>\n<p>@Compendium[dungeonworld.the-paladin-moves.Zn1KLMf48b1mlXFC]{신성한 임무}를 수행 중인 동안, 피해를 줄 때 +[[/roll 1d8]]을 더 가합니다.</p>",
       "requiresMove": "의로운 분노"
     },
     {

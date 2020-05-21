@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&family=Sunflower:wght@500;700&display=swap');
+
+.vtt .window-app textarea,
+.vtt .window-app button,
+.vtt .window-app input,
+.vtt #chat-log .message,
+.dungeonworld {
+  font-family: "Roboto", "Noto Sans KR", serif;
+}
+
+.vtt .window-header,
+.vtt #chat-log .cell__title,
+.dungeonworld.sheet .input--title,
+.dungeonworld.sheet label,
+.dungeonworld.sheet h1
+.dungeonworld.sheet h2,
+.dungeonworld.sheet h3,
+.dungeonworld.sheet h4,
+.dungeonworld.sheet .cell__title,
+.dungeonworld.sheet .item {
+  font-family: "Martel", "Sunflower", serif;
+}
+
