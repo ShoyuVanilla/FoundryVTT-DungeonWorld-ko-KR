@@ -1,15 +1,13 @@
 {
 	"name": "translation-dungeonworld-ko-kr",
-	"title": "ko-KR - Dungeon World System",
+	"title": "Tranlsation: Korean [Dungeon World]",
 	"description": "<p>던전월드 시스템의 한국어화 모듈입니다.</p>",
-	"version": "0.1.3",
+	"version": "0.2.0",
 	"minimumCoreVersion" : "0.5.7",
-	"compatibleCoreVersion": "0.5.7",
+	"compatibleCoreVersion": "0.6.5",
 	"author": "Shoyu Vanilla",
 	"esmodules": ["babele-register.js"],
-	"scripts": [],
 	"styles": ["style.css"],
-	"packs": [],
 	"system": "dungeonworld",
 
 	"languages": [{
@@ -19,6 +17,6 @@
 	}],
 
 	"url": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR",
-	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/master/module.json",
-	"download": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/archive/master.zip"
+	"manifest": "https://raw.githubusercontent.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/master/module/module.json",
+	"download": "https://github.com/ShoyuVanilla/FoundryVTT-DungeonWorld-ko-KR/releases/download/v0.2.0/release.zip"
 }
