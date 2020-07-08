@@ -12,7 +12,13 @@
       "tags": "[{\"value\":\"장갑 1\"},{\"value\":\"착용\"}]"
     },
     {
-      "id": "Leathers",
+      "id": "Hide Armor",
+      "name": "생가죽 갑옷",
+      "description": "",
+      "tags": "[{\"value\":\"장갑 1\"}]"
+    },
+    {
+      "id": "Leather Armor",
       "name": "가죽 갑옷",
       "description": "<p>갑옷 형태로 만든 경화시킨 가죽입니다.</p>",
       "tags": "[{\"value\":\"착용\"},{\"value\":\"장갑 1\"}]"
