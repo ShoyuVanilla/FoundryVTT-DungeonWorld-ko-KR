@@ -14,7 +14,7 @@
     {
       "id": "Apotheosis",
       "name": "신격",
-      "description": "<p>이 액션을 택한 후 처음으로 신에게 격식에 맞는 기도를 올릴 때, 자기의 @Compendium[dungeonworld.the-cleric-moves.901uEUL4f8so6zAL]{신}과 관련된 신체적 특징을 하나 고릅니다 (갈퀴 손톱, 사파이어 깃털의 날개, 모든 것을 보는 세 번째 눈 등). 기도를 마치면 영구적으로 그 특징이 생깁니다.</p>",
+      "description": "<p>이 액션을 택한 후 처음으로 신에게 격식에 맞는 기도를 올릴 때, 자기의 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"901uEUL4f8so6zAL\"><i class=\"fas fa-suitcase\"></i> 신</a>과 관련된 신체적 특징을 하나 고릅니다 (갈퀴 손톱, 사파이어 깃털의 날개, 모든 것을 보는 세 번째 눈 등). 기도를 마치면 영구적으로 그 특징이 생깁니다.</p>",
       "requiresMove": ""
     },
     {
@@ -50,7 +50,7 @@
     {
       "id": "Divine Armor",
       "name": "믿음의 보루",
-      "description": "<p>대체: @Compendium[dungeonworld.the-cleric-moves.WPFFbD5dlrRmVWUA]{믿음의 갑옷}</p>\n<p>갑옷을 입지도 방패를 들지도 않으면 장갑이 3이 됩니다.</p>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"WPFFbD5dlrRmVWUA\"><i class=\"fas fa-suitcase\"></i> 믿음의 갑옷</a></p>\n<p>갑옷을 입지도 방패를 들지도 않으면 장갑이 3이 됩니다.</p>",
       "requiresMove": "믿음의 갑옷"
     },
     {
@@ -62,13 +62,13 @@
     {
       "id": "Divine Intervention",
       "name": "신의 보우",
-      "description": "<p>@Compendium[dungeonworld.the-cleric-moves.mxJTu3Ym7txrMQZw]{예배}를 올리면 예비를 1점 받습니다. 아직 안 쓰고 남아 있는 예비는 없어집니다. 자신이나 동료가 피해를 입게 되었을 때 이 예비를 소모하면 신이 적절한 방법으로 이 피해를 막아 줍니다 (갑자기 돌풍이 분다거나, 섬광이 일어난다거나, 적의 발이 미끄러진다거나).</p>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"mxJTu3Ym7txrMQZw\"><i class=\"fas fa-suitcase\"></i> 예배</a>를 올리면 예비를 1점 받습니다. 아직 안 쓰고 남아 있는 예비는 없어집니다. 자신이나 동료가 피해를 입게 되었을 때 이 예비를 소모하면 신이 적절한 방법으로 이 피해를 막아 줍니다 (갑자기 돌풍이 분다거나, 섬광이 일어난다거나, 적의 발이 미끄러진다거나).</p>",
       "requiresMove": ""
     },
     {
       "id": "Divine Invincibility",
       "name": "신의 가호",
-      "description": "<p>대체: @Compendium[dungeonworld.the-cleric-moves.3yuNuWyxXqpRHBC9]{신의 보우}</p>\n<p>@Compendium[dungeonworld.the-cleric-moves.mxJTu3Ym7txrMQZw]{예배}를 올리면 예비를 2점 받습니다. 아직 안 쓰고 남아 있는 예비는 없어집니다. 자신이나 동료가 피해를 입게 되었을 때 예비를 1점 소모하면 신이 적절한 방법으로 이 피해를 막아 줍니다 (갑자기 돌풍이 분다거나, 섬광이 일어난다거나, 적의 발이 미끄러진다거나).</p>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"3yuNuWyxXqpRHBC9\"><i class=\"fas fa-suitcase\"></i> 신의 보우</a></p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"mxJTu3Ym7txrMQZw\"><i class=\"fas fa-suitcase\"></i> 예배</a>를 올리면 예비를 2점 받습니다. 아직 안 쓰고 남아 있는 예비는 없어집니다. 자신이나 동료가 피해를 입게 되었을 때 예비를 1점 소모하면 신이 적절한 방법으로 이 피해를 막아 줍니다 (갑자기 돌풍이 분다거나, 섬광이 일어난다거나, 적의 발이 미끄러진다거나).</p>",
       "requiresMove": "신의 보우"
     },
     {
@@ -80,25 +80,25 @@
     {
       "id": "Empower",
       "name": "주문 강화",
-      "description": "<p>@Compendium[dungeonworld.the-cleric-moves.Dp4N2vTW1n8WfZ7S]{주문을 시전}할 때, 10+가 나오더라도 원하면 7~9의 부작용을 하나 택하고 다음의 두 효과 중 하나를 택할 수 있습니다:</p>\n<ul>\n<li>주문의 효과가 2배 됩니다.</li>\n<li>주문의 대상의 수가 2배 됩니다.</li>\n</ul>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"Dp4N2vTW1n8WfZ7S\"><i class=\"fas fa-suitcase\"></i> 주문을 시전</a>할 때, 10+가 나오더라도 원하면 7~9의 부작용을 하나 택하고 다음의 두 효과 중 하나를 택할 수 있습니다:</p>\n<ul>\n<li>주문의 효과가 2배 됩니다.</li>\n<li>주문의 대상의 수가 2배 됩니다.</li>\n</ul>",
       "requiresMove": ""
     },
     {
       "id": "First Aid",
       "name": "응급처치",
-      "description": "<p>@Compendium[dungeonworld.the-cleric-spells.aEBd6p43tLHkpfz3]{소치유}가 암송주문이 되어, 주문의 레벨 제한에 걸리지 않게 됩니다.</p>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-spells\" data-id=\"aEBd6p43tLHkpfz3\"><i class=\"fas fa-suitcase\"></i> 소치유</a>가 암송주문이 되어, 주문의 레벨 제한에 걸리지 않게 됩니다.</p>",
       "requiresMove": ""
     },
     {
       "id": "Greater Empower",
       "name": "상급 주문 강화",
-      "description": "<p>대체: @Compendium[dungeonworld.the-cleric-moves.ZRYEV6o77eCiCHn5]{주문 강화}</p>\n<p>@Compendium[dungeonworld.the-cleric-moves.Dp4N2vTW1n8WfZ7S]{주문을 시전}할 때, 10~11이면 원할 경우 7~9의 부작용을 하나 고르고 다음의 두 효과 중 하나를 택할 수 있습니다. 12가 나오면 부작용을 고르지 않고 효과를 하나 선택합니다:</p>\n<ul>\n<li>주문의 효과가 2배 됩니다.</li>\n<li>주문의 대상의 수가 2배 됩니다.</li>\n</ul>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"ZRYEV6o77eCiCHn5\"><i class=\"fas fa-suitcase\"></i> 주문 강화</a></p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"Dp4N2vTW1n8WfZ7S\"><i class=\"fas fa-suitcase\"></i> 주문을 시전</a>할 때, 10~11이면 원할 경우 7~9의 부작용을 하나 고르고 다음의 두 효과 중 하나를 택할 수 있습니다. 12가 나오면 부작용을 고르지 않고 효과를 하나 선택합니다:</p>\n<ul>\n<li>주문의 효과가 2배 됩니다.</li>\n<li>주문의 대상의 수가 2배 됩니다.</li>\n</ul>",
       "requiresMove": "주문 강화"
     },
     {
       "id": "Greater First Aid",
       "name": "상급 응급처치",
-      "description": "<p>@Compendium[dungeonworld.the-cleric-spells.AeXDPl3kBcN3mi5S]{치유}가 암송주문이 되어, 주문의 레벨 제한에 걸리지 않게 됩니다.</p>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-spells\" data-id=\"AeXDPl3kBcN3mi5S\"><i class=\"fas fa-suitcase\"></i> 치유</a>가 암송주문이 되어, 주문의 레벨 제한에 걸리지 않게 됩니다.</p>",
       "requiresMove": "응급처치"
     },
     {
@@ -110,7 +110,7 @@
     {
       "id": "Martyr",
       "name": "회개",
-      "description": "<p>대체: @Compendium[dungeonworld.the-cleric-moves.y16rE2r43j0i6UVI]{속죄}</p>\n<p>피해를 입고 그 고통을 기꺼이 받아들이면, 원할 경우 +[[/roll 1d4]]의 피해를 더 입을 수 있습니다 (장갑 무시). 그렇게 하면 다음 번 주문 시전 판정에 +1을 받고, 그 주문으로 가하는 피해나 치유에 자기의 레벨만큼이 더해집니다.</p>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"y16rE2r43j0i6UVI\"><i class=\"fas fa-suitcase\"></i> 속죄</a></p>\n<p>피해를 입고 그 고통을 기꺼이 받아들이면, 원할 경우 +<a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a>의 피해를 더 입을 수 있습니다 (장갑 무시). 그렇게 하면 다음 번 주문 시전 판정에 +1을 받고, 그 주문으로 가하는 피해나 치유에 자기의 레벨만큼이 더해집니다.</p>",
       "requiresMove": "속죄"
     },
     {
@@ -128,13 +128,13 @@
     {
       "id": "Penitent",
       "name": "속죄",
-      "description": "<p>피해를 입고 그 고통을 기꺼이 받아들이면, 원할 경우 +[[/roll 1d4]]의 피해를 더 입을 수 있습니다 (장갑 무시). 그렇게 하면 다음 번 주문 시전 판정에 +1을 받습니다.</p>",
+      "description": "<p>피해를 입고 그 고통을 기꺼이 받아들이면, 원할 경우 +<a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a>의 피해를 더 입을 수 있습니다 (장갑 무시). 그렇게 하면 다음 번 주문 시전 판정에 +1을 받습니다.</p>",
       "requiresMove": ""
     },
     {
       "id": "Providence",
       "name": "은총",
-      "description": "<p>대체: @Compendium[dungeonworld.the-cleric-moves.YlTCWjJSmVliGx0m]{평정}</p>\n<p>현재 지속되고 있는 주문으로 인해 받는 총 페널티가 -2까지 줄어듭니다.</p>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"YlTCWjJSmVliGx0m\"><i class=\"fas fa-suitcase\"></i> 평정</a></p>\n<p>현재 지속되고 있는 주문으로 인해 받는 총 페널티가 -2까지 줄어듭니다.</p>",
       "requiresMove": "평정"
     },
     {
@@ -146,13 +146,13 @@
     {
       "id": "Serenity",
       "name": "평정",
-      "description": "<p>@Compendium[dungeonworld.the-cleric-moves.Dp4N2vTW1n8WfZ7S]{주문을 시전}할 때, 이미 지속되는 주문으로 인해 받는 총 페널티가 -1 줄어듭니다.</p>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-cleric-moves\" data-id=\"Dp4N2vTW1n8WfZ7S\"><i class=\"fas fa-suitcase\"></i> 주문을 시전</a>할 때, 이미 지속되는 주문으로 인해 받는 총 페널티가 -1 줄어듭니다.</p>",
       "requiresMove": ""
     },
     {
       "id": "The Scales Of Life And Death",
       "name": "생사의 저울",
-      "description": "<p>사제가 있는 곳에서 @Compendium[dungeonworld.basic-moves.IjJPcx3Lp2V3l4WL]{황천길}을 가는 사람은 판정에 +1을 받습니다.</p>",
+      "description": "<p>사제가 있는 곳에서 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.basic-moves\" data-id=\"IjJPcx3Lp2V3l4WL\"><i class=\"fas fa-suitcase\"></i> 황천길</a>을 가는 사람은 판정에 +1을 받습니다.</p>",
       "requiresMove": ""
     },
     {

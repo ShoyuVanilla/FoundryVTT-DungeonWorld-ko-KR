@@ -8,7 +8,7 @@
     {
       "id": "Balance",
       "name": "조화",
-      "description": "<p>피해를 줄 때마다 예비 1점을 받습니다. 그 후 부상자를 만지고 예비를 써서 생명의 신령을 부를 수 있습니다. 이렇게 소비한 예비 1점당 [[/roll 1d4]] HP가 치유됩니다.</p>",
+      "description": "<p>피해를 줄 때마다 예비 1점을 받습니다. 그 후 부상자를 만지고 예비를 써서 생명의 신령을 부를 수 있습니다. 이렇게 소비한 예비 1점당 <a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a> HP가 치유됩니다.</p>",
       "requiresMove": ""
     },
     {
@@ -20,13 +20,13 @@
     {
       "id": "Blood and Thunder",
       "name": "피와 천둥",
-      "description": "<p>대체: @Compendium[dungeonworld.the-druid-moves.iLspH8wR3twQhj5t]{피 묻은 이빨과 발톱}</p>\n<p>위험한 동물로 변신한 상태에서 가하는 피해가 [[/roll d10]]이 됩니다.</p>",
+      "description": "<p>대체: <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"iLspH8wR3twQhj5t\"><i class=\"fas fa-suitcase\"></i> 피 묻은 이빨과 발톱</a></p>\n<p>위험한 동물로 변신한 상태에서 가하는 피해가 [[/roll d10]]이 됩니다.</p>",
       "requiresMove": "피 묻은 이빨과 발톱"
     },
     {
       "id": "Born of the Soil",
       "name": "대지의 아들/딸",
-      "description": "<p>드루이드는 고대의 신령들이 깃든 곳에서 그 지식과 술법을 배웁니다. 드루이드를 가족으로 받아들인 대지의 신령들은 어디를 가나 드루이드의 마음 속에 함께하며, 자기들의 모습을 취할 수 있도록 허락해 줍니다. 다음 중 자신과 결연된 지형을 고르십시오. 드루이드는 자기의 땅에 서식하는 짐승이라면 어느 것의 모습으로도 @Compendium[dungeonworld.the-druid-moves.4HB8lt7sHetQ3mO3]{변신}할 수 있습니다:</p>\n<ul>\n<li>거대한 숲</li>\n<li>속삭이는 평야</li>\n<li>광활한 사막</li>\n<li>악취 나는 늪</li>\n<li>너른 삼각주</li>\n<li>땅 속 깊은 곳</li>\n<li>초록빛 섬들</li>\n<li>솟아오른 산맥</li>\n<li>얼어붙은 북방</li>\n<li>황량한 불모지</li>\n</ul>\n<p>드루이드로서의 증표를 고르십시오. 이것은 대지의 자식임을 뜻하는 신체적 특징이며, 결연된 땅의 신령을 반영합니다. 표범의 무늬나 사슴의 뿔과 같이 동물적인 특징도 가능하고, 나뭇잎 같은 머리카락이나 얼음 같은 눈동자 같은 것도 됩니다. 증표는 어느 모습을 취하건 간에 유지됩니다.</p>",
+      "description": "<p>드루이드는 고대의 신령들이 깃든 곳에서 그 지식과 술법을 배웁니다. 드루이드를 가족으로 받아들인 대지의 신령들은 어디를 가나 드루이드의 마음 속에 함께하며, 자기들의 모습을 취할 수 있도록 허락해 줍니다. 다음 중 자신과 결연된 지형을 고르십시오. 드루이드는 자기의 땅에 서식하는 짐승이라면 어느 것의 모습으로도 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"4HB8lt7sHetQ3mO3\"><i class=\"fas fa-suitcase\"></i> 변신</a>할 수 있습니다:</p>\n<ul>\n<li>거대한 숲</li>\n<li>속삭이는 평야</li>\n<li>광활한 사막</li>\n<li>악취 나는 늪</li>\n<li>너른 삼각주</li>\n<li>땅 속 깊은 곳</li>\n<li>초록빛 섬들</li>\n<li>솟아오른 산맥</li>\n<li>얼어붙은 북방</li>\n<li>황량한 불모지</li>\n</ul>\n<p>드루이드로서의 증표를 고르십시오. 이것은 대지의 자식임을 뜻하는 신체적 특징이며, 결연된 땅의 신령을 반영합니다. 표범의 무늬나 사슴의 뿔과 같이 동물적인 특징도 가능하고, 나뭇잎 같은 머리카락이나 얼음 같은 눈동자 같은 것도 됩니다. 증표는 어느 모습을 취하건 간에 유지됩니다.</p>",
       "requiresMove": ""
     },
     {
@@ -38,7 +38,7 @@
     {
       "id": "Chimera",
       "name": "합성수",
-      "description": "<p>@Compendium[dungeonworld.the-druid-moves.4HB8lt7sHetQ3mO3]{변신}을 할 때, 최대 세 가지 형태를 섞을 수 있습니다. 예를 들어 독수리의 날개와 숫양의 머리를 한 곰 같은 것도 가능합니다. 마스터가 각 형태의 액션을 하나씩 제시할 것입니다. 그 외로는 변신과 같은 룰을 따릅니다.</p>",
+      "description": "<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"4HB8lt7sHetQ3mO3\"><i class=\"fas fa-suitcase\"></i> 변신</a>을 할 때, 최대 세 가지 형태를 섞을 수 있습니다. 예를 들어 독수리의 날개와 숫양의 머리를 한 곰 같은 것도 가능합니다. 마스터가 각 형태의 액션을 하나씩 제시할 것입니다. 그 외로는 변신과 같은 룰을 따릅니다.</p>",
       "requiresMove": ""
     },
     {
@@ -62,7 +62,7 @@
     {
       "id": "Embracing No Form",
       "name": "형태의 자유",
-      "description": "<p>변신할 때 [[/roll 1d4]]를 굴려 예비에 더합니다.</p>",
+      "description": "<p>변신할 때 <a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a>를 굴려 예비에 더합니다.</p>",
       "requiresMove": ""
     },
     {
@@ -80,7 +80,7 @@
     {
       "id": "Formshaper",
       "name": "변신의 달인",
-      "description": "<p>동물 형태일 때 장갑을 1 높이거나 +[[/roll 1d4]]의 피해를 더 줄 수 있습니다. 어느 쪽인지는 변신을 할 때 선택하십시오.</p>",
+      "description": "<p>동물 형태일 때 장갑을 1 높이거나 +<a class=\"inline-roll roll\" title=\"1d4\" data-mode=\"roll\" data-flavor=\"1d4\" data-formula=\"1d4\"><i class=\"fas fa-dice-d20\"></i> 1d4</a>의 피해를 더 줄 수 있습니다. 어느 쪽인지는 변신을 할 때 선택하십시오.</p>",
       "requiresMove": "변신의 명수"
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "Shapeshifter",
       "name": "변신",
-      "description": "<p>신령들에게 부탁하여 모습을 바꿀 때 +혜 판정을 합니다. 10+이면 예비 3점을 받습니다. 7~9이면 예비 2점을 받습니다. 6-이면 예비 1점을 받지만 마스터가 지정하는 무슨 일인가가 일어납니다.</p>\n<p>결연된 땅에 살고 있거나, 자신이 따로 @Compendium[dungeonworld.the-druid-moves.vbin0HmymVL9CO6s]{본질을 연구}한 동물로만 변신을 할 수 있습니다. 옷과 소지품은 변신할 때 동물의 몸에 흡수됩니다. 변신했을 때의 능력과 약점은 그 형태를 따릅니다. 표범이라면 발톱이 있을 것이고, 독수리라면 날개가 있을 것이며, 송어라면 물 밖에서 숨을 쉬지 못할 것입니다. 능력치는 그대로 사용하지만, 액션이 발동되기 어려운 경우가 있을 것입니다. 예를 들어 고양이 몸으로는 거인과 싸우는 것이 불가능에 가깝습니다. 변신할 때, 마스터가 새 형태로 할 수 있는 액션을 1개 이상 제시할 것입니다. 예비를 1점 쓰면 판정 없이 그 액션을 할 수 있습니다. 예비가 모두 떨어지면 원래 모습으로 돌아옵니다. 원하면 언제든지 남은 예비를 모두 소비해서 사람 모습으로 돌아올 수 있습니다.</p>",
+      "description": "<p>신령들에게 부탁하여 모습을 바꿀 때 +혜 판정을 합니다. 10+이면 예비 3점을 받습니다. 7~9이면 예비 2점을 받습니다. 6-이면 예비 1점을 받지만 마스터가 지정하는 무슨 일인가가 일어납니다.</p>\n<p>결연된 땅에 살고 있거나, 자신이 따로 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"vbin0HmymVL9CO6s\"><i class=\"fas fa-suitcase\"></i> 본질을 연구</a>한 동물로만 변신을 할 수 있습니다. 옷과 소지품은 변신할 때 동물의 몸에 흡수됩니다. 변신했을 때의 능력과 약점은 그 형태를 따릅니다. 표범이라면 발톱이 있을 것이고, 독수리라면 날개가 있을 것이며, 송어라면 물 밖에서 숨을 쉬지 못할 것입니다. 능력치는 그대로 사용하지만, 액션이 발동되기 어려운 경우가 있을 것입니다. 예를 들어 고양이 몸으로는 거인과 싸우는 것이 불가능에 가깝습니다. 변신할 때, 마스터가 새 형태로 할 수 있는 액션을 1개 이상 제시할 것입니다. 예비를 1점 쓰면 판정 없이 그 액션을 할 수 있습니다. 예비가 모두 떨어지면 원래 모습으로 돌아옵니다. 원하면 언제든지 남은 예비를 모두 소비해서 사람 모습으로 돌아올 수 있습니다.</p>",
       "requiresMove": ""
     },
     {
@@ -110,7 +110,7 @@
     {
       "id": "Spirit Tongue",
       "name": "신령어",
-      "description": "<p>야생 동물들의 짖는 소리나 지저귀는 소리를 사람의 언어처럼 이해할 수 있습니다. 자기가 결연된 땅에 사는 동물, 또는 자신이 @Compendium[dungeonworld.the-druid-moves.vbin0HmymVL9CO6s]{본질을 연구}한 동물에 대해서만 통합니다.</p>",
+      "description": "<p>야생 동물들의 짖는 소리나 지저귀는 소리를 사람의 언어처럼 이해할 수 있습니다. 자기가 결연된 땅에 사는 동물, 또는 자신이 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"vbin0HmymVL9CO6s\"><i class=\"fas fa-suitcase\"></i> 본질을 연구</a>한 동물에 대해서만 통합니다.</p>",
       "requiresMove": ""
     },
     {
@@ -122,7 +122,7 @@
     {
       "id": "Studied Essence",
       "name": "본질의 연구",
-      "description": "<p>어느 동물의 신령에 관해 묵상하며 시간을 보내면, 그 종류의 동물로 @Compendium[dungeonworld.the-druid-moves.4HB8lt7sHetQ3mO3]{변신}할 수 있게 됩니다.</p>",
+      "description": "<p>어느 동물의 신령에 관해 묵상하며 시간을 보내면, 그 종류의 동물로 <a class=\"entity-link\" draggable=\"true\" data-pack=\"dungeonworld.the-druid-moves\" data-id=\"4HB8lt7sHetQ3mO3\"><i class=\"fas fa-suitcase\"></i> 변신</a>할 수 있게 됩니다.</p>",
       "requiresMove": ""
     },
     {
