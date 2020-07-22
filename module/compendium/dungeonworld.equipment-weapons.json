@@ -144,6 +144,12 @@
       "tags": "[{\"value\":\"투척\"},{\"value\":\"중거리\"}]"
     },
     {
+      "id": "Two-handed sword",
+      "name": "양손검",
+      "description": "",
+      "tags": "[{\"value\":\"한걸음\"},{\"value\":\"피해 +1\"}]"
+    },
+    {
       "id": "War hammer",
       "name": "전투망치",
       "description": "<p>두개골을 부수기에 적당한 커다란 금속 망치입니다.</p>",
