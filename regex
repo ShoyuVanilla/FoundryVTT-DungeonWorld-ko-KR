@@ -1,0 +1,7 @@
+# Compendium link
+@Compendium\[([a-zA-Z\-]+.[a-zA-Z\-]+).([a-zA-Z0-9!]+)\]\{([a-zA-Z가-힣! ]+)\}
+<a class=\"entity-link\" draggable=\"true\" data-pack=\"$1\" data-id=\"$2\"><i class=\"fas fa-suitcase\"></i> $3</a>
+
+# Inline roll
+\[\[\/roll ([0-9]+d[0-9]+)\]\]
+<a class=\"inline-roll roll\" title=\"$1\" data-mode=\"roll\" data-flavor=\"$1\" data-formula=\"$1\"><i class=\"fas fa-dice-d20\"></i> $1</a>
